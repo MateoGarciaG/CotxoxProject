@@ -28,10 +28,24 @@ public class CarreraTest {
     }
 
     @Test
-    public void getTarjetaCredito() {
+    public void getDatosCarreraTest() {
 
+        /** Comprobar si los getters funcionan con los datos actuales de
+        esta clase Test */
         assertEquals(this.tarjetaCredito, this.carrera.getTarjetaCredito());
+        assertEquals(this.origen, this.carrera.getOrigen());
+        assertEquals(this.destino, this.carrera.getDestino());
+        assertEquals(this.distancia, this.carrera.getDistancia());
+        assertEquals(10.2d, this.carrera.getCosteEsperado());
+        
 
         System.out.println("Visa: " + carrera.getTarjetaCredito());
+        System.out.println("From: " + carrera.getOrigen());
+		System.out.println("To: " + carrera.getDestino());
+		System.out.println("Distance: " + carrera.getDistancia());
+        // Este método es responsabilidad de Tarifa por lo cual lo MOCKEARé por ahora
+        System.out.println("Total: " + carrera.getCosteEsperado() + "€");
     }
+
+    
 }

@@ -40,7 +40,7 @@ Examen de programación DAW Dual Java de febrero de 2021, CIFP Francesc de Borja
 ---
 
 ## Diagrama UML
-![Project UML Diagram](https://github.com/MateoGarciaG/NombreProject/doc/UML_Diagram/uml_diagram_exam.png)
+![Project UML Diagram](https://github.com/MateoGarciaG/NombreProject/doc/UML_Diagram/diagrama_clases_UML_Cotxox.png)
 
 **[⬆ back to top](#tabla-de-contenidos)**
 

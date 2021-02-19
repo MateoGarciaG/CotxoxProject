@@ -1,3 +1,8 @@
+# CotxoxProyecto
+
+Este Proyecto Cotxox consiste en construir un prototipo de la aplicación Cotxox que permite gestionar el traslado de turistas desde el aeropuerto a determinadas zonas de la isla de Mallorca, y provoca huelgas de taxistas a discreción.
+
+CarreraTest and Carrera Class is done, the rest of the classes is not finished yet
 
 ---
 

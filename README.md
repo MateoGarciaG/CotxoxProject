@@ -1,46 +1,27 @@
-# Cotxox
 
-## Examen programación Java
+---
 
-Examen de programación DAW Dual Java de febrero de 2021, CIFP Francesc de Borja Moll, Palma (Illes Balears).
-
-[![status application](https://img.shields.io/badge/status-stable-brightgreen)](URL_Proyecto)
+[![status application](https://img.shields.io/badge/status-stable-brightgreen)](https://github.com/MateoGarciaG/CotxoxProject)
 
 <!--Logos-->
 
-![Project Logo Java](https://github.com/MateoGarciaG/NombreProject/doc/img/java.png)
+![Project Logo Java](./doc/img/java.png)
 
-![Project Logo Maven](https://github.com/MateoGarciaG/NombreProject/doc/img/apache_maven.png)
+![Project Logo Maven](./doc/img/apache_maven.png)
 
-![Project Logo Borja Moll](https://github.com/MateoGarciaG/NombreProject/doc/img/logocifp.png)
+![Project Logo Borja Moll](./doc/img/logocifp.png)
 
 ## Tabla de Contenidos
 
-1. [Salida de la Aplicación](#salidas-de-la-aplicacion)
-1. [Historias de Usuario](#historias-de-usuario)
 1. [Diagrama UML](#diagrama-uml)
 1. [Tecnologías Usadas](#tecnologias-usadas)
 1. [Licencia](#licencia)
 
----
-
-## Salida de mi Aplicación
-![Project Salida Aplicacion](https://github.com/MateoGarciaG/NombreProject/doc/salida_aplicacion.png)
-
-**[⬆ back to top](#tabla-de-contenidos)**
-
----
-
-## Historias de Usuario
-> Para ver el documento de las Historias de Usuario
-- [Historias de Usuario: ](https://github.com/MateoGarciaG/NombreProject/doc/historias_usuarios.pdf)
-
-**[⬆ back to top](#tabla-de-contenidos)**
 
 ---
 
 ## Diagrama UML
-![Project UML Diagram](https://github.com/MateoGarciaG/NombreProject/doc/UML_Diagram/diagrama_clases_UML_Cotxox.png)
+![Project UML Diagram](./doc/UML_Diagram/diagrama_clases_UML_Cotxox.png)
 
 **[⬆ back to top](#tabla-de-contenidos)**
 
